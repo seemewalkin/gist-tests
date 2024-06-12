@@ -1,0 +1,19 @@
+{
+  "name": "distribusion-gist-tests",
+  "version": "1.0.0",
+  "description": "Automated tests for GitHub Gists",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'tests/**/*.test.js'"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "supertest": "^6.1.3"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
