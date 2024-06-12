@@ -1,6 +1,7 @@
 
 # GitHub Gist Testing Project
 ![GitHub Actions](https://github.com/seemewalkin/distribusion-gist-tests/actions/workflows/ci.yml/badge.svg)
+
 [Results of CI runs](https://github.com/seemewalkin/distribusion-gist-tests/actions)
 
 This project is designed to test the GitHub Gists API using Mocha, Chai, and Supertest. It includes automated tests for creating, retrieving, updating, and deleting gists.
