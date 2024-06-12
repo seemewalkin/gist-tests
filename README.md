@@ -32,27 +32,27 @@ This project tests the core functionalities of the GitHub Gists API, including:
 ### Installation
 
 1. Clone the repository:
-    \`\`\`sh
-    git clone https://github.com/yourusername/github-gist-testing.git
-    cd github-gist-testing
-    \`\`\`
+   ```sh
+   git clone https://github.com/yourusername/github-gist-testing.git
+   cd github-gist-testing
+   ```
 
 2. Install the dependencies:
-    \`\`\`sh
-    npm install
-    \`\`\`
+   ```sh
+   npm install
+   ```
 
 3. Create a `.env` file in the root directory and add your GitHub token:
-    \`\`\`sh
-    touch .env
-    echo "MY_GITHUB_TOKEN=your_actual_github_token_here" >> .env
-    \`\`\`
+   ```sh
+   touch .env
+   echo "MY_GITHUB_TOKEN=your_actual_github_token_here" >> .env
+   ```
 
 ## Running Tests
 
 To run the tests, use the following command:
-\`\`\`sh
-npm test
-\`\`\`
+   ```sh
+   npm test
+   ```
 
 This will execute all test cases defined in the `tests` directory.
