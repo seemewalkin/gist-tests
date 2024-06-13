@@ -33,8 +33,8 @@ This project tests the core functionalities of the GitHub Gists API, including:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/github-gist-testing.git
-   cd github-gist-testing
+   git clone https://github.com/seemewalkin/distribusion-gist-tests
+   cd distribusion-gist-tests
    ```
 
 2. Install the dependencies:
