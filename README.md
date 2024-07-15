@@ -1,8 +1,8 @@
 
 # GitHub Gist Testing Project
-![GitHub Actions](https://github.com/seemewalkin/distribusion-gist-tests/actions/workflows/ci.yml/badge.svg)
+![GitHub Actions](https://github.com/seemewalkin/gist-tests/actions/workflows/ci.yml/badge.svg)
 
-[Results of CI runs](https://github.com/seemewalkin/distribusion-gist-tests/actions)
+[Results of CI runs](https://github.com/seemewalkin/gist-tests/actions)
 
 This project is designed to test the GitHub Gists API using Mocha, Chai, and Supertest. It includes automated tests for creating, retrieving, updating, and deleting gists.
 
@@ -33,8 +33,8 @@ This project tests the core functionalities of the GitHub Gists API, including:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/seemewalkin/distribusion-gist-tests
-   cd distribusion-gist-tests
+   git clone https://github.com/seemewalkin/gist-tests
+   cd gist-tests
    ```
 
 2. Install the dependencies:
